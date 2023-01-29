@@ -1,0 +1,11 @@
+"use strict";
+exports.__esModule = true;
+var superHeros = [];
+// const heroPower: number[] = [];
+// const heroPower: number[] = [];
+var heroPower = [];
+var allUsers = [];
+superHeros.push("spiderman");
+heroPower.push(100);
+allUsers.push({ name: "", isActive: true });
+var mlModels = [[255, 255, 255], []];
